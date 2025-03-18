@@ -1,8 +1,10 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE:17.08.2025
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
+
+RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, predictive analytics and statistical modeling, evaluation, and deployment. RapidMiner is written in the Java programming language. RapidMiner provides a GUI to design and execute analytical workflows. Those workflows are called “Processes” in RapidMiner and they consist of multiple “Operators”. Each operator performs a single task within the process, and the output of each operator forms the input of the next one. Alternatively, the engine can be called from other programs or used as an API. Individual functions can be called from the command line. RapidMiner provides learning schemes, models and algorithms and can be extended using R and Python scripts.
 
 ### Procedure:
 1) ***Import Excel data***
@@ -26,5 +28,9 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![Screenshot 2025-03-18 160608](https://github.com/user-attachments/assets/45acc92f-96fd-4f46-bc0c-701d8d520c3a)
+
+![Screenshot 2025-03-18 160504](https://github.com/user-attachments/assets/76cc9004-05fa-410c-b7e2-34af01171556)
 
 ### Result:
+Thus, sentimental analysis for the given data using Rapidminer is done successfully.
